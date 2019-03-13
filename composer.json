@@ -1,0 +1,36 @@
+{
+  "name": "kvothe/keyboard-shortcuts",
+  "description": "Adds Keyboard Shortcuts.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "authors": [
+    {
+      "name": "Kvothe",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kvothe\\KeyboardShortcuts\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Keyboard Shortcuts",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
