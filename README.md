@@ -6,8 +6,8 @@ A [Flarum](http://flarum.org) extension. Adds Keyboard Shortcuts. Uses the [Mous
 
 ### Screenshots
 
-![https://i.imgur.com/IGtAFiY.png](Admin)
-![https://i.imgur.com/W7Tsx9s.png](Help Modal)
+![Admin](https://i.imgur.com/IGtAFiY.png)
+![Help Modal](https://i.imgur.com/W7Tsx9s.png)
 
 ### Installation
 
@@ -27,3 +27,4 @@ php flarum cache:clear
 ### Links
 
 - [Packagist](https://packagist.org/packages/kvothe/keyboard-shortcuts)
+- [GitHub](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts)
