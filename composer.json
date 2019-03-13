@@ -24,9 +24,9 @@
     "flarum-extension": {
       "title": "Keyboard Shortcuts",
       "icon": {
-        "name": "",
-        "backgroundColor": "",
-        "color": ""
+        "name": "fas fa-keyboard",
+        "backgroundColor": "#333",
+        "color": "#eee"
       }
     },
     "flagrow": {
